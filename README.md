@@ -1,4 +1,4 @@
-# AI Content Planner with CrewAI and Streamlit
+# AI Content Planner with CrewAI
 
 ## Overview
 This project is a simple AI-powered content planning tool that leverages **CrewAI** to generate blog outlines based on user input. The web application is built using **Streamlit**, making it easy to interact with the AI agent through a user-friendly interface.
@@ -20,8 +20,8 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/veydantkatyal/content-planner-crewai.git
-cd crewai-streamlit
+git clone https://github.com/veydantkatyal/content-planner-crew-ai.git
+cd content-planner-crew-ai
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
